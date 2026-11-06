@@ -1,0 +1,14 @@
+C:\Users\Kotovas\Desktop\portfolio\course 1\practices\с1-p5\Камень-ножницы бумага\Камень-ножницы бумага\bin\Debug\net10.0\Камень-ножницы бумага.exe
+C:\Users\Kotovas\Desktop\portfolio\course 1\practices\с1-p5\Камень-ножницы бумага\Камень-ножницы бумага\bin\Debug\net10.0\Камень-ножницы бумага.deps.json
+C:\Users\Kotovas\Desktop\portfolio\course 1\practices\с1-p5\Камень-ножницы бумага\Камень-ножницы бумага\bin\Debug\net10.0\Камень-ножницы бумага.runtimeconfig.json
+C:\Users\Kotovas\Desktop\portfolio\course 1\practices\с1-p5\Камень-ножницы бумага\Камень-ножницы бумага\bin\Debug\net10.0\Камень-ножницы бумага.dll
+C:\Users\Kotovas\Desktop\portfolio\course 1\practices\с1-p5\Камень-ножницы бумага\Камень-ножницы бумага\bin\Debug\net10.0\Камень-ножницы бумага.pdb
+C:\Users\Kotovas\Desktop\portfolio\course 1\practices\с1-p5\Камень-ножницы бумага\Камень-ножницы бумага\obj\Debug\net10.0\Камень-ножницы бумага.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotovas\Desktop\portfolio\course 1\practices\с1-p5\Камень-ножницы бумага\Камень-ножницы бумага\obj\Debug\net10.0\Камень-ножницы бумага.AssemblyInfoInputs.cache
+C:\Users\Kotovas\Desktop\portfolio\course 1\practices\с1-p5\Камень-ножницы бумага\Камень-ножницы бумага\obj\Debug\net10.0\Камень-ножницы бумага.AssemblyInfo.cs
+C:\Users\Kotovas\Desktop\portfolio\course 1\practices\с1-p5\Камень-ножницы бумага\Камень-ножницы бумага\obj\Debug\net10.0\Камень-ножницы бумага.csproj.CoreCompileInputs.cache
+C:\Users\Kotovas\Desktop\portfolio\course 1\practices\с1-p5\Камень-ножницы бумага\Камень-ножницы бумага\obj\Debug\net10.0\Камень-ножницы бумага.dll
+C:\Users\Kotovas\Desktop\portfolio\course 1\practices\с1-p5\Камень-ножницы бумага\Камень-ножницы бумага\obj\Debug\net10.0\refint\Камень-ножницы бумага.dll
+C:\Users\Kotovas\Desktop\portfolio\course 1\practices\с1-p5\Камень-ножницы бумага\Камень-ножницы бумага\obj\Debug\net10.0\Камень-ножницы бумага.pdb
+C:\Users\Kotovas\Desktop\portfolio\course 1\practices\с1-p5\Камень-ножницы бумага\Камень-ножницы бумага\obj\Debug\net10.0\Камень-ножницы бумага.genruntimeconfig.cache
+C:\Users\Kotovas\Desktop\portfolio\course 1\practices\с1-p5\Камень-ножницы бумага\Камень-ножницы бумага\obj\Debug\net10.0\ref\Камень-ножницы бумага.dll
